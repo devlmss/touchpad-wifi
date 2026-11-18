@@ -1,0 +1,20 @@
+TOUCHPAD WI-FI — TERMOS DE USO
+
+Copyright (c) 2026 Leonardo Moreira. Todos os direitos reservados.
+
+O Touchpad Wi-Fi é software proprietário. É concedida ao usuário final uma
+permissão gratuita, pessoal, não exclusiva e intransferível para baixar,
+instalar e usar as versões binárias oficiais, sem cobrança.
+
+Esta permissão não autoriza copiar ou redistribuir os arquivos, modificar ou
+criar trabalhos derivados, descompilar, sublicenciar, vender ou disponibilizar
+o software como parte de outro produto. Permissões adicionais dependem de
+autorização escrita do desenvolvedor.
+
+O software é fornecido “no estado em que se encontra”, sem garantia de
+funcionamento ininterrupto ou adequação a uma finalidade específica. O usuário
+é responsável por utilizá-lo somente em uma rede confiável. A comunicação não
+é criptografada.
+
+Estes termos não transferem a titularidade do software ou de seus direitos
+autorais.

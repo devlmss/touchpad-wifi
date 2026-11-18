@@ -1,0 +1,7 @@
+*.apk
+*.exe
+*.msi
+*.pfx
+*.p12
+*.keystore
+local.properties
