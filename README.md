@@ -9,7 +9,7 @@ controlar um computador Windows pela mesma rede Wi-Fi local.
 
 ## Downloads
 
-Os arquivos de instalação serão disponibilizados na página
+Os arquivos de instalação estão disponíveis na página
 [Releases](https://github.com/devlmss/touchpad-wifi/releases), sem exigir uma
 conta GitHub:
 
@@ -18,9 +18,9 @@ conta GitHub:
   `TouchpadWiFiServidor.exe` (versão portátil)
 
 O APK Android 1.0 foi recompilado para usar o crédito público “Leonardo
-Moreira” e está preparado para a primeira Release. Esta é uma compilação de
-depuração, sem uma chave permanente de distribuição. Não baixe arquivos por
-links de terceiros.
+Moreira” e está incluído na Release. Esta é uma compilação de depuração, sem
+uma chave permanente de distribuição. Não baixe arquivos por links de
+terceiros.
 
 ## Funcionalidades
 
